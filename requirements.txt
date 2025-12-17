@@ -3,4 +3,7 @@ numpy
 seaborn
 matplotlib
 dill
+xgboost
+catboost
+Flask
 # -e .
